@@ -1,0 +1,350 @@
+{
+  "data": [
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "No-nonsense chain bar specialising in the Scottish brewery's craft beers, with regular guest brews."
+      },
+      "formattedAddress": "C. de Casanova, 69, 08011 Barcelona, Spain",
+      "name": "BrewDog Barcelona",
+      "placeId": "ChIJex7cM4mipBIRlianrJveE5Q",
+      "url": "https://maps.google.com/?cid=10670116702368769686",
+      "website": "https://www.brewdog.com/brewdog-barcelona",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Craft beer on tap & elevated bar bites served in hip, industrial surrounds with outdoor seating."
+      },
+      "formattedAddress": "Carrer de Ramon Turró, 180, Carrer de Vilardell, 23, 08005 Barcelona, Spain",
+      "name": "Hoppiness",
+      "placeId": "ChIJpz2PtBWjpBIRebeNrobWpsI",
+      "url": "https://maps.google.com/?cid=14026133963434473337",
+      "website": "https://www.facebook.com/hoppinessbcn/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ de Roger de Flor, 134, 08013 Barcelona, Spain",
+      "name": "BAR 134",
+      "placeId": "ChIJB4vJceaipBIR-h_LHxgLCl0",
+      "url": "https://maps.google.com/?cid=6704183193534930938",
+      "website": "https://www.instagram.com/bar_134?r=nametag",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Industrial brewpub with a big terrace, offering craft beer on tap & global meals, plus live music."
+      },
+      "formattedAddress": "Palau del Mar, Pça. de Pau Vila, 1, 08039 Barcelona, Spain",
+      "name": "BlackLab Brewhouse & Kitchen",
+      "placeId": "ChIJHYrHEgCjpBIRXwUgwTGJ0KY",
+      "url": "https://maps.google.com/?cid=12020258252238357855",
+      "website": "http://www.blacklab.es/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Industrial brewpub with a big terrace, offering craft beer on tap & global meals, plus live music."
+      },
+      "formattedAddress": "Palau del Mar, Pça. de Pau Vila, 1, 08039 Barcelona, Spain",
+      "name": "BlackLab Brewhouse & Kitchen",
+      "placeId": "ChIJHYrHEgCjpBIRXwUgwTGJ0KY",
+      "url": "https://maps.google.com/?cid=12020258252238357855",
+      "website": "http://www.blacklab.es/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Casual setting for rotating local & global craft brews from 18 taps, paired with small plates."
+      },
+      "formattedAddress": "Carrer del Cardenal Casañas, 7, 08002 Barcelona, Spain",
+      "name": "Kælderkold Craft Beer Bar",
+      "placeId": "ChIJl5lD6veipBIRN53HowR_3Ok",
+      "url": "https://maps.google.com/?cid=16851483563617918263",
+      "website": "http://www.kaelderkold.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ de Roger de Llúria, 81, 08009 Barcelona, Spain",
+      "name": "The Growler",
+      "placeId": "ChIJOcMnjeyipBIRt89aIxW3J6o",
+      "url": "https://maps.google.com/?cid=12260969811954814903",
+      "website": "http://thegrowlerbarcelona.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "Carrer de l'Hospital, 74, 08001 Barcelona, Spain",
+      "name": "Ølgod Brewpub",
+      "placeId": "ChIJmW0rUF-ipBIRmqYoIniVV_k",
+      "url": "https://maps.google.com/?cid=17966993581619586714",
+      "website": "http://www.olgodbcn.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9430896140403108469",
+      "wheelchairAccessibleEntrance": false,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ de Sant Agustí, 14, 08012 Barcelona, Spain",
+      "name": "La Cervesera Artesana",
+      "placeId": "ChIJ_dVvNpSipBIRa5MPDEijooQ",
+      "url": "https://maps.google.com/?cid=9557380889068933995",
+      "website": "http://lacervesera.net/?utm_source=Maps",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Chill brewpub with couches & a terrace offering a variety of local beers on tap, plus light bites."
+      },
+      "formattedAddress": "C/ del Consell de Cent, 261, 08011 Barcelona, Spain",
+      "name": "Garage Beer Co",
+      "placeId": "ChIJQx4vGYyipBIRQZlplFoljBc",
+      "url": "https://maps.google.com/?cid=1696772230579067201",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ de Sepúlveda, 164, 08011 Barcelona, Spain",
+      "name": "Maresme Brewery Taproom - Craft Beer",
+      "placeId": "ChIJT4oADPijpBIRsSlRkE1C2tY",
+      "url": "https://maps.google.com/?cid=15481759569940654513",
+      "website": "http://www.maresmebrewery.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Local & global craft beer served alongside classic comfort food & tapas in a rustic-chic pub."
+      },
+      "formattedAddress": "C/ de Muntaner, 55, 08011 Barcelona, Spain",
+      "name": "BierCaB",
+      "placeId": "ChIJV_rcAYyipBIRIa-yUTNyn5c",
+      "url": "https://maps.google.com/?cid=10925576785763675937",
+      "website": "http://biercab.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Cozy, brick-accented haunt with a wide assortment of global craft beers, including house brews."
+      },
+      "formattedAddress": "C/ de Jesús, 16, 08012 Barcelona, Spain",
+      "name": "Bar La Beata",
+      "placeId": "ChIJk3FURZaipBIRYt5iiUOb8Ko",
+      "url": "https://maps.google.com/?cid=12317515695228378722",
+      "website": "http://barlabeata.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Pared-down space with a sidewalk terrace serving classic tapas dishes, burgers & craft beers."
+      },
+      "formattedAddress": "Carrer de Vila i Vilà, 77, 08004 Barcelona, Spain",
+      "name": "Abirradero: CraftBeer & Tapes",
+      "placeId": "ChIJNTUUaVyipBIRkXBn_PPMrYo",
+      "url": "https://maps.google.com/?cid=9992868496488755345",
+      "website": "http://www.abirradero.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Warm tavern with outdoor seating & a robust craft beer list, plus tapas & sandwiches served all day."
+      },
+      "formattedAddress": "Carrer de Rabassa, 23, 08024 Barcelona, Spain",
+      "name": "La Rovira",
+      "placeId": "ChIJ_zRRvLuipBIRBDDvdAB-Er0",
+      "url": "https://maps.google.com/?cid=13624090363176103940",
+      "website": "https://www.facebook.com/larovirabcn/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ del Rosselló, 185, 08036 Barcelona, Spain",
+      "name": "Humble Beer",
+      "placeId": "ChIJD7gdUfmjpBIR6OdfI_CvfS0",
+      "url": "https://maps.google.com/?cid=3277969549716088808",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ de la Diputació, 30, 08015 Barcelona, Spain",
+      "name": "Cerveseria La Més Petita",
+      "placeId": "ChIJBSMaNnyipBIRDou7T8bJfCw",
+      "url": "https://maps.google.com/?cid=3205658888359349006",
+      "website": "https://www.cerveserialamespetita.cat/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ del Parlament, 45, 08015 Barcelona, Spain",
+      "name": "Barna Brew",
+      "placeId": "ChIJf0Q7lWCipBIR2UYQjznM0zE",
+      "url": "https://maps.google.com/?cid=3590437875529828057",
+      "website": "http://www.barnabrew.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C. de Llull, 184, 08005 Barcelona, Spain",
+      "name": "La Cervecita Nuestra De Cada Día",
+      "placeId": "ChIJje8p1T-jpBIR_h9FebqXH7c",
+      "url": "https://maps.google.com/?cid=13195432260373127166",
+      "website": "https://lacervecitanuestradecadadia.negocio.site/?m=true",
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "Passeig de Calvell, 45, 08005 Barcelona, Spain",
+      "name": "Garage Beer Co Poblenou - Craft Beer & Pizzette",
+      "placeId": "ChIJSSmk1VujpBIReK0a5I4pAWk",
+      "url": "https://maps.google.com/?cid=7566374542648192376",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Sandwiches & craft beer at a narrow venue with an industrial vibe & a black-and-white mural."
+      },
+      "formattedAddress": "Carrer de les Basses de Sant Pere, 10, 08003 Barcelona, Spain",
+      "name": "Ale&Hop",
+      "placeId": "ChIJOT3jjvyipBIR_0JywWorHHY",
+      "url": "https://maps.google.com/?cid=8510725133335413503",
+      "website": "https://www.facebook.com/aleandhop/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ de la Diputació, 433, 08013 Barcelona, Spain",
+      "name": "La Bona Pinta",
+      "placeId": "ChIJC4LzR-eipBIR8VrciPNn3G0",
+      "url": "https://maps.google.com/?cid=7916316540681345777",
+      "website": "http://www.labonapinta.com/",
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ de Casp, 33B, 08010 Barcelona, Spain",
+      "name": "La Textil Collective",
+      "placeId": "ChIJ7WhhG3mjpBIRyiYmrcAs3Mw",
+      "url": "https://maps.google.com/?cid=14761722884663944906",
+      "website": "https://www.latextil.beer/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5001227242509746534",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C. del Marqués de Barberá, 11, 08001 Barcelona, Spain",
+      "name": "Garage Beer Co x Warike - Craft Beer & Peruvian Street Food",
+      "placeId": "ChIJc6NHbmSjpBIRwaKPgLf9UOk",
+      "url": "https://maps.google.com/?cid=16812216373551801025",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "Carrer de Margarit, 52, 08004 Barcelona, Spain",
+      "name": "Brew Pub Le Sec",
+      "placeId": "ChIJqYwLvGeipBIRbCOAP-y5y_A",
+      "url": "https://maps.google.com/?cid=17351166413703750508",
+      "website": "https://m.facebook.com/100063622238412/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Down-to-earth hangout offering an extensive selection of Belgian beers, plus snacks & board games."
+      },
+      "formattedAddress": "Carrer de Tamarit, 107, 08015 Barcelona, Spain",
+      "name": "Lambicus Bar",
+      "placeId": "ChIJD_dFgGSipBIRh35RyDcu9Jg",
+      "url": "https://maps.google.com/?cid=11021485005201309319",
+      "website": "http://www.lambicus.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "Rda. de Sant Antoni, 41, 08011 Barcelona, Spain",
+      "name": "Fàbrica Moritz Barcelona",
+      "placeId": "ChIJR9LHwYqipBIRE3IenZBBAyA",
+      "url": "https://maps.google.com/?cid=2306759523510940179",
+      "website": "http://fabricamoritzbarcelona.com/?lang=ca",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C/ del Rosselló, 515, 08025 Barcelona, Spain",
+      "name": "Estrella Damm",
+      "placeId": "ChIJtcegItqipBIRr6iXURevWOg",
+      "url": "https://maps.google.com/?cid=16742324129437821103",
+      "website": "http://www.estrelladamm.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "formattedAddress": "C. de Casanova, 62, 08011 Barcelona, Spain",
+      "name": "Conesa Beer Barcelona",
+      "placeId": "ChIJeU55eH6jpBIRXu7P_fy-3Nk",
+      "url": "https://maps.google.com/?cid=15698632394906005086",
+      "website": "https://conesabeerbarcelona.com/",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    },
+    {
+      "editorialSummary": {
+        "language": "en",
+        "overview": "Casual, convivial hangout offering a range of ales, plus bar snacks with vegan options."
+      },
+      "formattedAddress": "C/ de Còrsega, 611, 08025 Barcelona, Spain",
+      "name": "La Cerveseria Clandestina",
+      "placeId": "ChIJD1IZ2tqipBIRoUD-UMvz4nw",
+      "url": "https://maps.google.com/?cid=8999023060002422945",
+      "website": "https://m.facebook.com/LaCerveseriaClandestina/?locale2=ca_ES",
+      "wheelchairAccessibleEntrance": true,
+      "city": "Barcelona",
+      "country": "spain"
+    }
+  ]
+}
