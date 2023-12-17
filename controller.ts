@@ -8,9 +8,11 @@ const getRandomBar = (req: Request, res: Response) => {
     const bar = Bars.data[random] as Bar;
     const result = { bar, index: random } as BarWithIndex;
 
-    return res.status(200).send(result);
+    res.status(200).send(result);
+    return;
   } catch (error) {
-    return res.status(500).send(error);
+    res.status(500).send(error);
+    return;
   }
 };
 
@@ -19,9 +21,11 @@ const getBarByIndex = (req: Request, res: Response) => {
     const { index } = req.params;
     const bar = Bars.data[+index];
 
-    return res.status(200).send({ bar });
+    res.status(200).send(bar);
+    return;
   } catch (error) {
-    return res.status(500).send(error);
+    res.status(500).send(error);
+    return;
   }
 };
 
